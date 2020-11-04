@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+
+
+
+.header{
+   color: red;
+   border: 5px solid red;
+   border-radius: 10px;
+   text-align: center;
+   margin: 10px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.donate{
+   color: red;
+   border: 5px solid red;
+   border-radius: 10px;
+   text-align: center;
+   margin: 10px;
+   
+    
+}
+
+h2{
+    font-size: 40px;
+}
+
+.pics{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+img{
+    width: 500px;
+    margin: 20px;
+}
+
+.ems_promise{
+   color: red;
+   border: 5px solid red;
+   border-radius: 10px;
+   text-align: center;
+   margin: 10px;
+}
+
+h3{
+    font-size: 30px;
+
+}
+
+p{
+    font-size: 20px;
+    
+}
